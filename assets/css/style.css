@@ -1,0 +1,36 @@
+body {
+  background: url(../images/bball.jpg);
+  background-size: cover;
+  background-color: orange;
+  background-repeat: no-repeat;
+}
+
+h1,
+p,
+h2 {
+  color: #ffffff;
+  text-align: center;
+}
+
+#text {
+  color: #ffffff;
+}
+
+.jumbotron {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+}
+#questionsJumbotron {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: white;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-emphasis-color: black;
+  /* color: white; */
+  background-color: transparent;
+}
